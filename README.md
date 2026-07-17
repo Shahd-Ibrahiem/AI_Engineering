@@ -11,7 +11,7 @@ To maximize performance and keep development costs at **$0**, I have adapted the
 
 * **Inference:** [Groq Cloud](https://console.groq.com) (Llama 3.1 & 3.3 Models) — *Sub-second response times.*
 * **Environment:** [uv](https://github.com/astral-sh/uv) — *The fastest Python package manager in the world.*
-* **Editor:** [Cursor](https://cursor.com/) — *AI-native code editor for faster iteration.*
+* **Editor:** [Cursor](https://cursor.com/) — *AI-native code editor for faster iteration.* 
 * **OS:** Windows 11 (Running on dedicated Project Drive `D:`)
 
 ---
@@ -20,9 +20,9 @@ To maximize performance and keep development costs at **$0**, I have adapted the
 
 | Week | Module | Key Deliverable | Status ⏳/✔️ |
 | :--- | :--- | :--- | :---: |
-| **01** | **LLM Foundations** | Build our First LLM Model | ⏳ |
-| **02** | **Multi-modality** | Build a Multi-modal Chatbot | ⏳ |
-| **03** | **Open-source with HuggingFace** | Automated Solutions | ⏳ |
+| **01** | **LLM Foundations** | Build our First LLM Model | ✔️ |
+| **02** | **Multi-modality** | Build a Multi-modal Chatbot | ✔️ |
+| **03** | **Open-source with HuggingFace** | Automated Solutions | ✔️|
 | **04** | **Selecting LLMs** | Evaluating Models | ⏳ |
 | **05** | **RAG & Question Answering** | Advanced Solutions with Vector Embeddings | ⏳ |
 | **06** | **Fine-tuning a Frontier Model** | From Traditional ML to DL to Frontier Model | ⏳ |
